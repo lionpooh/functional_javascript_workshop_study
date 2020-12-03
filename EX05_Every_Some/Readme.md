@@ -1,8 +1,7 @@
 # Every Some
 ## Exercise 5 of 18
 ### Task
-유효한 사용자를 파라미터로 받는 함수에서, 랜덤의 사용자 리스트를 받아 앞서 유효한 사용자랑 비교하여, 현재 사용자 리스트가 유효한지를 파악하는
-함수를 리턴하기
+유효한 사용자를 파라미터로 받는 함수에서, 랜덤의 사용자 리스트를 받아 앞서 유효한 사용자랑 비교하여, 현재 사용자 리스트가 유효한지를 파악하는 함수를 리턴하기
 > 원문 - Return a function that takes a list of valid users, and returns a function that returns true if all of the supplied users exist in the original list of users.
 
 > `Array#Every`, `Array#Some`을 활용할 것
